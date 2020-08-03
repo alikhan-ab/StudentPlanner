@@ -14,7 +14,6 @@ class ScheduleTableViewController: UITableViewController {
     
     let classInfoControler = ClassInfroController()
     
-    let a = ClassCourse(aC)
     var classes: [[ClassCourse]] = [[],[],[],[],[],[],[]]
     
     override func viewDidLoad() {
